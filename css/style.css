@@ -1148,6 +1148,10 @@ body ::-moz-selection {
   margin-bottom: 1.5rem;
 }
 
+.card-slider-t1__button {
+  white-space: nowrap;
+}
+
 .up-index {
   vertical-align: super;
 }
